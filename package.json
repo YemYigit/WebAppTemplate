@@ -1,0 +1,17 @@
+{
+  "name": "webapptempleate",
+  "version": "1.0.0",
+  "description": "Web Application Template with node.js express and mongo db",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "YemYigit",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.13"
+  }
+}
